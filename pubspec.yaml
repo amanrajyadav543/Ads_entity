@@ -1,7 +1,7 @@
 name: ads_entity
 description: A Flutter package to manage and display custom and Google ads seamlessly in your Flutter apps.
 version: 0.0.1
-homepage:
+homepage: https://github.com/amanrajyadav543/Ads_entity.git
 
 environment:
   sdk: ^3.7.0
